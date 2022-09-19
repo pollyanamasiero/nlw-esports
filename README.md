@@ -6,7 +6,7 @@
 
 Projeto construído do evento Next Level Week do Rockstseat
 
-[🔗 Clique aqui para acessar](https://pollyanamasiero.github.io/initialcommit/)
+[🔗 Clique aqui para acessar](https://pollyanamasiero.github.io/nlw-esports/)
 
 
 ## 🤓 Tecnologias
