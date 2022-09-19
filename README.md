@@ -15,6 +15,6 @@ Projeto construído do evento Next Level Week do Rockstseat
 - CSS
 - Git e GitHub
 
-## Contato
+## 📧 Contato
 
-pollyanamasiero@hotmail.com# nlw-esports
+pollyanamasiero@hotmail.com 
